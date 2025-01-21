@@ -17,3 +17,5 @@ jobs:
             whoami
             pwd
             echo "Hello from EC2!"
+            echo "Hello from LikeLion!" > lion.txt
+            
